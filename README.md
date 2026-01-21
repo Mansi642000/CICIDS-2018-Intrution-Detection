@@ -1,5 +1,4 @@
 # CICIDS-2018-Intrution-Detection
-# CICIDS-2018 Intrusion Detection System
 
 ## Project Overview
 This project focuses on detecting network intrusions using the CICIDS-2018 dataset.
