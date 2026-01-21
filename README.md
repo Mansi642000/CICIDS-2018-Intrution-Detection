@@ -109,5 +109,3 @@ The results demonstrate that Randomized Search was more efficient and better sui
 **Mansi Behera**  
 MCA, National Institute of Technology, Raipur
 
-
-## Project Structure
