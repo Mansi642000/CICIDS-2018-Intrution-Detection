@@ -26,7 +26,7 @@ https://www.unb.ca/cic/datasets/ids-2018.html
 - Model evaluation using accuracy, precision, recall, F1-score
 
 ## Results
-The trained model successfully detected network intrusions with strong classification performance.
+The trained model successfully detected network intrusions with strong classification performance.Random Search was more efficient ,without sacrifising any grid performance.
 
 ## Future Improvements
 - Deep learning models
